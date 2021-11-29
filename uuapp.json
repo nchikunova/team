@@ -1,0 +1,17 @@
+{
+  "product": "my_project_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "my_project_maing01-hi": {},
+  "my_project_maing01-server": {}
+}
